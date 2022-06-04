@@ -1,0 +1,102 @@
+body {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+header {
+	margin-bottom: 45px;
+	margin-top: 30px;
+}
+
+.logohtml {
+	width: 100px;
+	height: 30px;
+	margin-right: 50px;g
+	margin-left: 30px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav2 {
+	display: inline-block;
+	vertical-align: middle;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+
+li {
+	display: inline-block;
+	margin-right: 25px;
+}
+.ul2 {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.pirveligverdi {
+	font-size: 22px; color: #3d58a6;
+}
+.activepage {
+	font-size: 22px; color: #ee4036;
+}
+.libolo {
+	font-size: 22px; color: #3d58a6;
+}
+
+
+article {
+	margin-bottom: 40px;
+}
+
+.h-27 {
+	border: solid #3D58A6;
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	padding-top: 4px;
+	margin-bottom: 7px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size: 48px;
+	color: #FFFFFF;
+}
+
+.maisi {
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size: 22px;
+	color: #3D58A6;
+	margin-bottom: 22px;
+}
+
+.satauri1 {
+	font-size: 20px;
+	color: black;
+	margin-bottom: 16px;
+}
+.foto {
+	margin-right: 39px;
+	display: inline-block;
+	vertical-align: top;
+}
+.div1 {
+	display: inline-block;
+	width: 900px;
+	vertical-align: top;
+
+}
+p {
+	margin-bottom: 20px;
+}
+
+footer {
+	margin-bottom: 26px;
+}
+
+.fblogo2 {
+	margin-right: 35px;
+}
+.xazi { 
+	display: inline-block;
+	border: 1px solid #363E97;	
+	width: 1px;
+	height: 27px;
+	background-color: #363E97;
+	margin-right: 30px;
+
+}
